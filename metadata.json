@@ -1,0 +1,6 @@
+{
+  "name": "Atmospheric Intelligence",
+  "description": "A high-fidelity weather insights and atmospheric conditions application with elegant metrics, forecasts, and smart warnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
